@@ -77,5 +77,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For queries or suggestions, reach out via email at [your-email@example.com].
+For queries or suggestions, reach out via email at [jeevarp.22eie@kongu.edu].
 
